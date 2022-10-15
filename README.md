@@ -8,4 +8,8 @@
 #admin view_doctor
 ![screencapture-localhost-9441-HospitalManagementSystem-admin-view-doctor-jsp-2022-10-15-13_52_13](https://user-images.githubusercontent.com/97262660/195977180-92c6fbd5-8810-4f83-a14c-a3abd00fc3e2.png)
 #viewappointment
-![screencapture-localhost-9441-HospitalManagementSystem-view-appointment-jsp-2022-10-15-13_52_54](https://user-images.githubusercontent.com/97262660/195977215-c643e8a7-c509-48d4-b325-b5946ffab2ab.png)
+![screencapture-localhost-9441-HospitalManagementSystem-view-appointment-jsp-2022-10-15-14_04_08](https://user-images.githubusercontent.com/97262660/195977418-cedf0c5c-ac1c-4600-b39f-27054edaaabb.png)
+#doctorlogin page
+![screencapture-localhost-9441-HospitalManagementSystem-doctor-login-jsp-2022-10-15-14_00_59](https://user-images.githubusercontent.com/97262660/195977438-9cb780dd-98d0-420e-860d-076921aade1a.png)
+#doctorindex page
+![screencapture-localhost-9441-HospitalManagementSystem-doctor-index-jsp-2022-10-15-14_01_22](https://user-images.githubusercontent.com/97262660/195977481-b002251d-4e23-4f0c-aa41-742746fdee34.png)
