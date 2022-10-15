@@ -13,3 +13,7 @@
 ![screencapture-localhost-9441-HospitalManagementSystem-doctor-login-jsp-2022-10-15-14_00_59](https://user-images.githubusercontent.com/97262660/195977438-9cb780dd-98d0-420e-860d-076921aade1a.png)
 #doctorindex page
 ![screencapture-localhost-9441-HospitalManagementSystem-doctor-index-jsp-2022-10-15-14_01_22](https://user-images.githubusercontent.com/97262660/195977481-b002251d-4e23-4f0c-aa41-742746fdee34.png)
+#patientdetails
+![screencapture-localhost-9441-HospitalManagementSystem-admin-patient-jsp-2022-10-15-14_07_57](https://user-images.githubusercontent.com/97262660/195977572-709edbe8-9243-4a52-9e9e-beb850a54c69.png)
+#adddoctor
+![screencapture-localhost-9441-HospitalManagementSystem-admin-doctor-jsp-2022-10-15-14_08_17](https://user-images.githubusercontent.com/97262660/195977584-57380b83-3161-406a-844c-5ca371180b83.png)
